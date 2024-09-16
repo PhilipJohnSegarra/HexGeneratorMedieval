@@ -17,7 +17,7 @@ namespace HexGeneratorMedieval
         private async void copy_Clicked(object sender, EventArgs e)
         {
             await Clipboard.SetTextAsync(hexColor);
-            await DisplayAlert("Success", $"Text [{hexColor}] Copied to Clipboard", "ok");
+            await DisplayAlert("Copied", $"Text [{hexColor}] Copied to Clipboard", "Ok");
         }
 
         Color HexColor = Color.FromRgb(0, 0, 0);
