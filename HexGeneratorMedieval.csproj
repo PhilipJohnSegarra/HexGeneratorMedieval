@@ -60,9 +60,12 @@
 	<ItemGroup>
 	  <None Remove="Resources\Fonts\Canterbury.ttf" />
 	  <None Remove="Resources\Images\burningWitch.png" />
+	  <None Remove="Resources\Images\burningwitch2.png" />
+	  <None Remove="Resources\Images\burningwitch3.png" />
 	  <None Remove="Resources\Images\copy.png" />
 	  <None Remove="Resources\Images\hexcopy.png" />
 	  <None Remove="Resources\Images\labelBackground.png" />
+	  <None Remove="Resources\Images\medievalwarrior.png" />
 	  <None Remove="Resources\Images\randombutton.png" />
 	  <None Remove="Resources\Images\sliderBackground.png" />
 	  <None Remove="Resources\Images\sliderLabel.png" />

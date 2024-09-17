@@ -19,7 +19,7 @@
                    FontSize="35"
                    TextColor="#FFE682">Witches Burn</Label>
         </Grid>
-        <Image Source="burningwitch.png"
+        <Image Source="burningwitch3.png"
                HorizontalOptions="Center"
                MaximumHeightRequest="300"
                x:Name="witchImage"></Image>
